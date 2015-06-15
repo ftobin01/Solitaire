@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>853BEC68-BCBD-4252-9AB2-26E7F7919343</string>
+	<key>IDESourceControlProjectName</key>
+	<string>sol1</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CAD1072E8134122527FA8702B46E8370B5070072</key>
+		<string>https://github.com/ftobin01/ditwork.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>sol1/sol1.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CAD1072E8134122527FA8702B46E8370B5070072</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ftobin01/ditwork.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CAD1072E8134122527FA8702B46E8370B5070072</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CAD1072E8134122527FA8702B46E8370B5070072</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ditwork</string>
+		</dict>
+	</array>
+</dict>
+</plist>
